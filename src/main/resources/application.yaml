@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+#AWS credentials
+aws:
+  accessKey: xxxxxxx
+  secretKey: yyyyy
+  region: us-xxx-1
+  s3:
+    bucket: springbootawss3demo
