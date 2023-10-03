@@ -15,5 +15,8 @@ https://xxxx.s3.amazonaws.com/1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=
 
 From POSTMAN (make sure it is PUT Mapping otherwise it will throw  request signature we calculated does not match the signature you provided. Check your key and signing method)
 
+![image](https://github.com/srss-pocs/springboot-aws-s3/assets/145287517/f269d68e-d0f0-4151-a27f-90303758f9d4)
+
+
 
 http://localhost:8080/api/s3/getdownloadurl?fileName=1.jpg : GET
